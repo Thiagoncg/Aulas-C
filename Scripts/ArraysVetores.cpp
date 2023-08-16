@@ -14,7 +14,7 @@ int main()
 
     // Declando e inicializando um vetor de "strings" com 5 elementos
     string carros[5] = {"bmw", "fordKa", "mustang", "corvet", "ferrari"};
-    size_t count = sizeof(carros) / sizeof(carros[0]);
+    size_t count = sizeof(carros) / sizeof(carros[0]);//
 
     // Acessando os elementos
     cout << "MOSTRA O CARRO NA POSIÇÃO 2: " << carros[2] << "\n";
