@@ -18,3 +18,4 @@ class pilha{
     int qualtamanho(); //lenght
 
 };
+//cep, cidade, estado, rua, numero, bairro, complemento
