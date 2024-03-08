@@ -6,10 +6,10 @@ int main() {
     std::vector<std::string> nomes; // Vetor para armazenar nomes
 
     // Adicionar nomes ao vetor
-    nomes.push_back("Alice");
-    nomes.push_back("Bob");
-    nomes.push_back("Carol");
-    nomes.push_back("David");
+    nomes.push_back("BMW x6");
+    nomes.push_back("BMW x6");
+    nomes.push_back("BMW x6");
+    nomes.push_back("BMW x6");
 
     // Apresentar os nomes armazenados no vetor
     std::cout << "Nomes armazenados:" << std::endl;

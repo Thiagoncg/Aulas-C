@@ -1,6 +1,6 @@
 // fila = queue
 typedef int TipoItem;
-const int max_itens = 100;
+const int max_itens = 4;
 
 class fila{
     private:
