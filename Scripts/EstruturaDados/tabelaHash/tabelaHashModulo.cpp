@@ -2,7 +2,7 @@
 #include <vector>
 
 int main() {
-    int valor = 36;
+    int valor = 10;
     int tamanhoVetor = 6;
 
     // Cria um vetor com o tamanho especificado
