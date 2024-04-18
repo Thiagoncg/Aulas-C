@@ -2,7 +2,7 @@
 #include <vector>
 
 int main() {
-    int valor = 10;
+    int valor = 20;
     int tamanhoVetor = 6;
 
     // Cria um vetor com o tamanho especificado
@@ -19,3 +19,11 @@ int main() {
 
     return 0;
 }
+// vitor nascimento moreira.
+// kayke araujo
+// enzo ferrari
+// joão marcos.
+// kaio henrique.
+// samuel lima
+
+// serie fallout

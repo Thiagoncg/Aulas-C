@@ -6,7 +6,7 @@ int hashFunction(const std::string& name) {
 }
 
 int main() {
-    std::string name = "Paula";
+    std::string name = "Frederico";
     int hashValue = hashFunction(name);
     std::cout << "O nome '" << name << "' sera colocado na posicao " << hashValue << " na memoria.\n";
     return 0;

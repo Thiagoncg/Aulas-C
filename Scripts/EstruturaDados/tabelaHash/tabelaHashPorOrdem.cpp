@@ -3,7 +3,7 @@
 #include <algorithm>
 
 int main() {
-    std::vector<std::string> nomes = {"Beatriz", "Alice", "Carlos"};
+    std::vector<std::string> nomes = {"Beatriz", "Alice", "Carlos", "Alexandre"};
 
     // Ordena os nomes em ordem alfabética
     std::sort(nomes.begin(), nomes.end());
@@ -15,3 +15,5 @@ int main() {
 
     return 0;
 }
+
+// Estrutura de dados . cesare crosara cardoso.
