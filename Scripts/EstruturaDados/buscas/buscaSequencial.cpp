@@ -20,10 +20,10 @@ int buscaSequencial(vector<int> &arr, int x)
 
 int main()
 {
-    vector<int> arr = {2, 3, 4, 10, 40};
-    int x = 40;
+    vector<int> arr = {2, 3, 4, 10, 40, 50, 51, 52, 53, 54, 56, 57, 59};
+    int x = 56;
     int resultado = buscaSequencial(arr, x);
     (resultado == -1) ? cout << "Elemento não encontrado \n"
-                      : cout << "Elemento encontrado no indice" << resultado << "\n";
+                      : cout << "Elemento encontrado no indice: " << resultado << "\n";
     return 0;
 }
