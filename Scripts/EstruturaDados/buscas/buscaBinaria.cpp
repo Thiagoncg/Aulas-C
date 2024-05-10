@@ -1,6 +1,12 @@
 #include <iostream>
 #include <vector>
 using namespace std;
+struct pessoa
+{
+    int idade;
+    string nome;
+};
+
 
 // Função para busca binária
 int buscaBinaria(vector<int>& arr, int x) {
@@ -27,7 +33,7 @@ int buscaBinaria(vector<int>& arr, int x) {
 
 int main() {
     int x = 0;
-    cout<<"Digite o valor que deseja aprocursara\n";
+    cout<<"Digite o valor que deseja procurar\n";
     cin >> x;
     vector<int> arr = {2, 3, 4, 10, 40, 4};
     int resultado = buscaBinaria(arr, x);

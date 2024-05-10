@@ -6,7 +6,6 @@
 struct Item {
     std::string nome;
     double preco;
-
 };
 
 int main() {
