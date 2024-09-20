@@ -2,8 +2,10 @@
 
 using namespace std;
 
-void hanoi(int n, char origem, char auxiliar, char destino) {
-    if (n == 1) {
+void hanoi(int n, char origem, char auxiliar, char destino)
+{
+    if (n == 1)
+    {
         cout << "Mover disco 1 de " << origem << " para " << destino << endl;
         return;
     }
@@ -12,7 +14,8 @@ void hanoi(int n, char origem, char auxiliar, char destino) {
     hanoi(n - 1, auxiliar, origem, destino);
 }
 
-int main() {
+int main()
+{
     int n;
     cout << "Digite o número de discos: ";
     cin >> n;
