@@ -19,9 +19,11 @@ int main() {
     aluno1.nome = "Maria";
     aluno1.idade = 21;
     aluno1.nota = 9.2;
+    
 
     // Chamando a função
     exibirAluno(aluno1);
+    
 
     return 0;
 }

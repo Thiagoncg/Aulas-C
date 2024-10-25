@@ -7,8 +7,8 @@ using namespace std;
 
 int main()
 {
-    int var1;
-    int *pont1;
+    int var1; //null
+    int *pont1; //null
 
     var1 = 5;
     pont1 = &var1;
