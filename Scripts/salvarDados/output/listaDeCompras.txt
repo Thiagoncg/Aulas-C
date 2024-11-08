@@ -1,4 +1,2 @@
-Item: banana, Preço: 32
-Item: uva, Preço: 50
-Item: melancia, Preço: 63
-Total: 145
+Item: banana, Preço: 150
+Total: 150

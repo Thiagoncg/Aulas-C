@@ -1,0 +1,4 @@
+Item: macarraoPreço: 10
+Item: bananaPreço: 12
+Item: chocolatePreço: 10
+Total: 32
